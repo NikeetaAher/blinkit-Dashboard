@@ -1,4 +1,4 @@
-### Blinkit Sales Analysis Dashboard
+## Blinkit Sales Analysis Dashboard
 
 ## 🚀 Project Overview
 This Power BI dashboard provides an in-depth analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. By leveraging data visualization and DAX calculations, this project identifies key insights to help optimize business decisions.
@@ -50,7 +50,7 @@ Provides a geographic breakdown of sales performance.
 
 A comprehensive overview of all key metrics by outlet type.
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 Power BI – Data visualization & interactive dashboard creation
 
 DAX (Data Analysis Expressions) – For custom calculations and KPIs
