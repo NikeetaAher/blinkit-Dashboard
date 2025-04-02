@@ -7,10 +7,13 @@ This Power BI dashboard provides an in-depth analysis of Blinkit’s sales perfo
 The goal of this project is to analyze Blinkit's sales trends, customer ratings, and inventory distribution using various KPIs and interactive visualizations to uncover patterns and opportunities for improvement.
 
 ## 🔍 Key Insights & Features
-✔ Total Sales Performance – Track revenue and sales distribution.
-✔ Customer Satisfaction Analysis – Evaluate average ratings by product and outlet.
-✔ Outlet & Inventory Insights – Understand sales trends across outlet locations, sizes, and establishment years.
-✔ Product Performance – Identify the best-selling item types based on multiple KPIs.
+Total Sales Performance – Track revenue and sales distribution.
+
+Customer Satisfaction Analysis – Evaluate average ratings by product and outlet.
+
+Outlet & Inventory Insights – Understand sales trends across outlet locations, sizes, and establishment years.
+
+Product Performance – Identify the best-selling item types based on multiple KPIs.
 
 ## 📈 Key KPIs
 Total Sales – Overall revenue generated from sales.
