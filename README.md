@@ -1,5 +1,9 @@
 ## Blinkit Dashboard
 
+## Dashboard link: https://app.powerbi.com/groups/me/dashboards/fdee54b2-325c-4a64-8115-7ab9d4a0e098?experience=power-bi
+
+## Report link: https://app.powerbi.com/groups/me/reports/d7ffd349-d822-46f3-b3f2-4d987747317c/79f4c28252848ad1900b?experience=power-bi
+
 ## 🚀 Project Overview
 This Power BI dashboard provides an in-depth analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. By leveraging data visualization and DAX calculations, this project identifies key insights to help optimize business decisions.
 
@@ -61,3 +65,6 @@ DAX (Data Analysis Expressions) – For custom calculations and KPIs
 SQL & Excel – Data preprocessing and cleaning
 
 Data Modeling – Transforming raw data for insightful analytics
+
+
+ 
