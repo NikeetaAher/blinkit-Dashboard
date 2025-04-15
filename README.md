@@ -19,52 +19,55 @@ Outlet & Inventory Insights – Understand sales trends across outlet locations,
 
 Product Performance – Identify the best-selling item types based on multiple KPIs.
 
-## 📈 Key KPIs
-Total Sales – Overall revenue generated from sales.
+## ✅ Key Metrics:
+Total Sales: $1.20M
 
-Average Sales – Revenue per transaction.
+Average Sales per Transaction: $141
 
-Number of Items Sold – Total quantity of items purchased.
+Total Number of Items: 8,523
 
-Average Rating – Customer satisfaction metric based on reviews.
+Average Customer Rating: 3.9
 
-## 📊 Visualizations Used
-1️⃣ Total Sales by Fat Content – Donut Chart 🥛
+## 📊 Insights Derived:
+1. Sales Distribution by Fat Content:
+Regular items generate more revenue ($776.32K) compared to Low Fat items ($425.36K).
 
-Analyzes how fat content impacts total sales and other KPIs.
+Indicates customer preference leans towards Regular items.
 
-2️⃣ Total Sales by Item Type – Bar Chart 🍞
+2. Top Performing Item Types:
+Fruits and Vegetables & Snack Foods are the highest revenue-generating categories (~$180K each).
 
-Identifies the best-selling product categories.
+Household Items and Frozen Foods follow closely, indicating a diverse sales spread.
 
-3️⃣ Fat Content by Outlet for Total Sales – Stacked Column Chart 🏪
+3. Outlet Location Performance:
+Tier 3 cities lead in total sales ($472.13K), followed by Tier 2 and Tier 1.
 
-Compares sales across outlets segmented by fat content.
+Suggests growing demand and market penetration in semi-urban and rural areas.
 
-4️⃣ Total Sales by Outlet Establishment Year – Line Chart 📈
+4. Outlet Size Performance:
+Medium-sized outlets outperform others ($507.90K in sales), suggesting optimal size for efficiency and demand.
 
-Examines how outlet age/type influences revenue.
+5. Sales Trend Over Time:
+Sales peaked around 2018 with $205K, followed by a decline and recent recovery to $131K.
 
-5️⃣ Sales by Outlet Size – Pie/Donut Chart 🏢
+May indicate external factors (e.g., market conditions or competition) impacting performance.
 
-Analyzes the correlation between outlet size and total sales.
+6. Outlet Type Performance:
 
-6️⃣ Sales by Outlet Location – Funnel Map 📍
+Outlet Type	Sales	Items	Avg Rating
+Supermarket Type1	$787.55K	5577	4
+Grocery Store	$151.94K	1083	4
+Supermarket Type2 & 3	~$130K	~930	4
+Supermarket Type 1 dominates both in sales and number of items.
 
-Provides a geographic breakdown of sales performance.
+## 🧰 Tools & Features Used in Power BI:
+Custom Filters: Outlet Type, Size, and Item Category for flexible analysis.
 
-7️⃣ All Metrics by Outlet Type – Matrix Card 📊
+Donut & Bar Charts: For segment-wise breakdowns.
 
-A comprehensive overview of all key metrics by outlet type.
+Time Series Graphs: For trend analysis.
 
-## 🛠️ Tools & Technologies Used
-Power BI – Data visualization & interactive dashboard creation
+KPIs and Cards: Displayed core metrics (Total Sales, Avg Sales, etc.).
 
-DAX (Data Analysis Expressions) – For custom calculations and KPIs
+Drill-through and Slicers: Enabled for deeper insights by location, fat content, and outlet size.
 
-SQL & Excel – Data preprocessing and cleaning
-
-Data Modeling – Transforming raw data for insightful analytics
-
-
- 
