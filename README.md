@@ -52,14 +52,6 @@ Sales peaked around 2018 with $205K, followed by a decline and recent recovery t
 
 May indicate external factors (e.g., market conditions or competition) impacting performance.
 
-6. Outlet Type Performance:
-
-Outlet Type	Sales	Items	Avg Rating
-Supermarket Type1	$787.55K	5577	4
-Grocery Store	$151.94K	1083	4
-Supermarket Type2 & 3	~$130K	~930	4
-Supermarket Type 1 dominates both in sales and number of items.
-
 ## 🧰 Tools & Features Used in Power BI:
 Custom Filters: Outlet Type, Size, and Item Category for flexible analysis.
 
