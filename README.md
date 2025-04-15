@@ -1,4 +1,6 @@
 ## Blinkit Dashboard
+![image](https://github.com/user-attachments/assets/1900c66a-449d-40e4-b1c3-dd1b99f9afb7)
+
 
 ## Dashboard link: https://app.powerbi.com/groups/me/dashboards/fdee54b2-325c-4a64-8115-7ab9d4a0e098?experience=power-bi
 
